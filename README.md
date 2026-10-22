@@ -1,4 +1,2 @@
-<p align="center">
-  <img src="https://ibb.co/NgzchXSz" alt="Banner" width="100%">
-</p> 
+<img src="https://twimg.com" width="100%" alt="Banner">
 
